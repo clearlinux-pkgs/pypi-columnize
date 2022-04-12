@@ -4,7 +4,7 @@
 #
 Name     : pypi-columnize
 Version  : 0.3.11
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/b0/ab/47c68ccca6052e18ccce562e6af92404b08cb2715edd9e9da31f4118cbcd/columnize-0.3.11.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b0/ab/47c68ccca6052e18ccce562e6af92404b08cb2715edd9e9da31f4118cbcd/columnize-0.3.11.tar.gz
 Summary  : Format a simple (i.e. not nested) list into aligned columns.
@@ -70,7 +70,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1647102853
+export SOURCE_DATE_EPOCH=1649729886
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
