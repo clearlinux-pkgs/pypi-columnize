@@ -4,7 +4,7 @@
 #
 Name     : pypi-columnize
 Version  : 0.3.11
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/b0/ab/47c68ccca6052e18ccce562e6af92404b08cb2715edd9e9da31f4118cbcd/columnize-0.3.11.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b0/ab/47c68ccca6052e18ccce562e6af92404b08cb2715edd9e9da31f4118cbcd/columnize-0.3.11.tar.gz
 Summary  : Format a simple (i.e. not nested) list into aligned columns.
